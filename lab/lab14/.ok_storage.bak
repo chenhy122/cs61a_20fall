@@ -1,0 +1,4 @@
+'prune_min-correct', (0, 70)
+'CheckingAccount-correct', (512, 70)
+'foldl-correct', (1024, 70)
+'filterl-correct', (1536, 70)
